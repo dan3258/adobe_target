@@ -1,0 +1,11 @@
+{
+  "activation": true,
+  "compare": true,
+  "discover": true,
+  "experience": true,
+  "explore": true,
+  "faqs": true,
+  "highlight": true,
+  "totaliser": true,
+  "whatsOn": true
+}
